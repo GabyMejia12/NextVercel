@@ -58,6 +58,13 @@
       "static/chunks/654-794201c84a0456f4.js",
       "static/chunks/app/dashboard/layout-e4d85280fd6dd01c.js"
     ],
+    "/dashboard/customers/page": [
+      "static/chunks/webpack-d2f2e70174d281b2.js",
+      "static/chunks/4e7fe310-901466d237dec70c.js",
+      "static/chunks/48-110f813db0e9bb17.js",
+      "static/chunks/main-app-5b48bf8a8af06ab1.js",
+      "static/chunks/app/dashboard/customers/page-730173006c2a99f0.js"
+    ],
     "/dashboard/invoices/error": [
       "static/chunks/webpack-d2f2e70174d281b2.js",
       "static/chunks/4e7fe310-901466d237dec70c.js",
@@ -80,13 +87,6 @@
       "static/chunks/main-app-5b48bf8a8af06ab1.js",
       "static/chunks/654-794201c84a0456f4.js",
       "static/chunks/app/dashboard/invoices/[id]/edit/page-67dea24ea3909f14.js"
-    ],
-    "/dashboard/customers/page": [
-      "static/chunks/webpack-d2f2e70174d281b2.js",
-      "static/chunks/4e7fe310-901466d237dec70c.js",
-      "static/chunks/48-110f813db0e9bb17.js",
-      "static/chunks/main-app-5b48bf8a8af06ab1.js",
-      "static/chunks/app/dashboard/customers/page-730173006c2a99f0.js"
     ],
     "/dashboard/invoices/create/page": [
       "static/chunks/webpack-d2f2e70174d281b2.js",
