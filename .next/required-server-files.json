@@ -95,7 +95,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\DELL\\Desktop\\nextEdgarguiacurso",
+    "outputFileTracingRoot": "C:\\Users\\DELL\\Documents\\nextPractica-main",
     "experimental": {
       "nodeMiddleware": false,
       "cacheLife": {
@@ -279,10 +279,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "C:\\Users\\DELL\\Desktop\\nextEdgarguiacurso"
+      "root": "C:\\Users\\DELL\\Documents\\nextPractica-main"
     }
   },
-  "appDir": "C:\\Users\\DELL\\Desktop\\nextEdgarguiacurso",
+  "appDir": "C:\\Users\\DELL\\Documents\\nextPractica-main",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",

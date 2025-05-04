@@ -1,4 +1,4 @@
-// File: C:\Users\DELL\Desktop\nextEdgarguiacurso\app\dashboard\invoices\create\page.tsx
+// File: C:\Users\DELL\Documents\nextPractica-main\app\dashboard\invoices\create\page.tsx
 import * as entry from '../../../../../../app/dashboard/invoices/create/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

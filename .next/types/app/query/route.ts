@@ -1,4 +1,4 @@
-// File: C:\Users\DELL\Desktop\nextEdgarguiacurso\app\query\route.ts
+// File: C:\Users\DELL\Documents\nextPractica-main\app\query\route.ts
 import * as entry from '../../../../app/query/route.js'
 import type { NextRequest } from 'next/server.js'
 
